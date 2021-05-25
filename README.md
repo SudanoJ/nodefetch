@@ -4,4 +4,4 @@
 ### Dependencia(s):
 - chalk ^4.1.1 (colored texts)
 
-![Obrigado kp pelo cpu info <3](./screenshot.png)
+![image](./screenshot.png "Obrigado kp por me ajudar no cpu info :)")
